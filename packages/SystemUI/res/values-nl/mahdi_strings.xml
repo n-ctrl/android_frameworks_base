@@ -72,7 +72,7 @@
     <string name="quick_settings_quick_record_save">Bewaard</string>
     <string name="quick_settings_quick_record_play">Afspelen...</string>
     <string name="quick_settings_quick_record_dialog_cancel">Sluiten</string>
-    <string name="quick_settings_quick_record_dialog">Play Recording\nLongpress to delete</string>
+    <string name="quick_settings_quick_record_dialog">Opname afspelen\nLang drukken om te verwijderen</string>
     <string name="quick_settings_custom_toggle">Aangepast</string>
     <string name="quick_settings_contact_toggle">Contacten</string>
     <string name="quick_settings_battery_saver_label">Accuspaarstand</string>
@@ -102,7 +102,7 @@
     <string name="battery_saver_brightness">Schermhelderheid hersteld</string>
     <string name="battery_saver_wifi">WiFi hersteld</string>
     <string name="battery_saver_no_changes">Geen instellingen hersteld</string>
-    <string name="battery_saver_all">All configuration restored</string>
+    <string name="battery_saver_all">Alle instellingen hersteld</string>
     <string name="battery_saver_enable_ticker">Accuspaarstand actief...</string>
     <string name="battery_saver_enable_title">Accuspaarstand</string>
     <string name="battery_saver_airplane_ticker">Vliegmodus ingeschakeld door accubesparing</string>
