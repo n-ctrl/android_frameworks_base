@@ -82,7 +82,10 @@
     <string name="quick_settings_equalizer">Equalizer</string>
     <string name="quick_settings_compass_off">Kompas uit</string>
     <string name="quick_settings_compass_init">Initialiseren\u2026</string>
+<<<<<<< HEAD
     <string name="quick_settings_compass_value" translatable="false"><xliff:g id="degrees">%1$.0f</xliff:g>\u00b0 <xliff:g id="direction">%2$s</xliff:g></string>
+=======
+>>>>>>> 4f4da409da3eff982ad53d6d7e5335c66f7d2e59
     <string name="quick_settings_heads_up_on">Heads up ingeschakeld</string>
     <string name="quick_settings_heads_up_off">Geen onderbrekingen</string>
 	
